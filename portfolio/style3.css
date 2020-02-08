@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto&display=swap");
+.profile-picture {
+  font-family: "Roboto", sans-serif;
+  width: 300px;
+  height: 300px;
+  border-radius: 16px;
+}
+* {
+  background-color: purple;
+}
+body {
+  margin: 0 auto;
+  width: 80%;
+}
+h1 {
+  text-align: center;
+}
+.about-me {
+  display: flex;
+  justify-content: space-evenly;
+}
+.background {
+  height: 300px;
+}
